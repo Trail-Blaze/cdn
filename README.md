@@ -10,3 +10,4 @@ Blaze Distribution CDN
 ### Keep in mind to **ALWAYS SET** the path to the indicated path below (C:\Blaze\Launcher\)
 ![image](https://user-images.githubusercontent.com/34188635/142510328-e5450943-dc03-47a5-8cae-7fb835d540af.png)
 
+## ALSO MAKE SURE TO HAVE [NODEJS](https://nodejs.org) INSTALLED!!!
