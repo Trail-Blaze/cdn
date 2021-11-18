@@ -1,0 +1,2 @@
+# cdn
+Blaze Distribution CDN
