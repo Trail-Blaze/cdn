@@ -37,6 +37,11 @@ Blaze Distribution CDN
 
 - A: Sometimes this may be a matter of you just using the arrow keys on your keyboard to navigate. If that doesn't help, try clicking on the keyboard icon on the bottom of your screen or anywhere outside the textbox where you typed your name and try again.
 
+### Keyboard Icon
+
+![image](https://user-images.githubusercontent.com/34188635/142677750-026aa454-f571-4bee-ab2c-fd51a366e59f.png)
+
+
 <br/>
 
 ## Q: The app keeps saying Blaze fails to start. Why does it do that?
