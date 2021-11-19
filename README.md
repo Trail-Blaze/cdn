@@ -18,7 +18,7 @@ Blaze Distribution CDN
 
 2. Next, run the helper scripts installer. Now this is where things get tricky. Just read the page and make sure your screen looks the same as the screenshot below then hit extract. 
 
-3. Now your work is complete and you can safely enjoy Blaze.
+3. Now your work is done and you can now safely enjoy Blaze.
 
 ## Note For the Helper Scripts Installer
 ### Keep in mind to **ALWAYS SET** the path to the indicated path below (C:\Blaze\Launcher\)
