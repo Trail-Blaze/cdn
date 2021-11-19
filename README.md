@@ -1,4 +1,5 @@
 # CDN
+
 Blaze Distribution CDN
 
 # What Would You Like to Do?
@@ -10,7 +11,7 @@ Blaze Distribution CDN
 
 ### If you don't like reading stuff, try watching the video below.
 
-![video](https://user-images.githubusercontent.com/34188635/142672549-9ddd3f7f-c02c-4b8a-ba44-a6e8564df5ba.mp4)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://user-images.githubusercontent.com/34188635/142672549-9ddd3f7f-c02c-4b8a-ba44-a6e8564df5ba.mp4)
 
 
 1. Download the main installer and do whatever it tells you to do. Make sure to read all instructions carefully. Although it is safe to say that clicking next until a finish button shows up will do no damage.
