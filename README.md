@@ -25,16 +25,25 @@ Blaze Distribution CDN
 ![image](https://user-images.githubusercontent.com/34188635/142510328-e5450943-dc03-47a5-8cae-7fb835d540af.png)
 
 ## ALSO MAKE SURE TO HAVE [NODEJS](https://nodejs.org) INSTALLED!!!
+<br/>
+<br/>
+<br/>
 
 # TROUBLESHOOTING (Q&A)
+
+<br/>
 
 ## Q: Help! Blaze starts but gets stuck on the "What's your name?" screen! What do I do?
 
 - A: Sometimes this may be a matter of you just using the arrow keys on your keyboard to navigate. If that doesn't help, try clicking on the keyboard icon on the bottom of your screen or anywhere outside the textbox where you typed your name and try again.
 
+<br/>
+
 ## Q: The app keeps saying Blaze fails to start. Why does it do that?
 
 - A: You probably didn't follow the instructions properly or don't have NodeJS installed on your system. NodeJS is required in order for Blaze to work.
+
+<br/>
 
 ## Q: I've added a Fortnite install but it's not showing up and instead shows a screen like this. How do I fix it?
 
@@ -59,6 +68,7 @@ Blaze Distribution CDN
 ### Problem Fixed!
 ![image](https://user-images.githubusercontent.com/34188635/142670834-30b24c69-4f65-4e17-8743-013606bd01ed.png)
 
+<br/>
 
 ## Q: Blaze Shows "Failed." when trying to start it up. How to fix?
 
