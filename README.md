@@ -18,7 +18,7 @@ Blaze Distribution CDN
 
 2. Next, run the helper scripts installer. Now this is where things get tricky. Just read the page and make sure your screen looks the same as the screenshot below then hit extract. 
 
-3. Now your work is done and you can now safely enjoy Blaze.
+3. Now your work is complete and you can safely enjoy Blaze.
 
 ## Note For the Helper Scripts Installer
 ### Keep in mind to **ALWAYS SET** the path to the indicated path below (C:\Blaze\Launcher\)
@@ -32,11 +32,11 @@ Blaze Distribution CDN
 
 - A: Sometimes this may be a matter of you just using the arrow keys on your keyboard to navigate. If that doesn't help, try clicking on the keyboard icon on the bottom of your screen or anywhere outside the textbox where you typed your name and try again.
 
-## Q: The App keeps saying Blaze fails to start. Why does it do that?
+## Q: The app keeps saying Blaze fails to start. Why does it do that?
 
 - A: You probably didn't follow the instructions properly or don't have NodeJS installed on your system. NodeJS is required in order for Blaze to work.
 
-## Q: I've Added a Fortnite Install But it's not Showing up and instead shows a screen like this. How do I fix it?
+## Q: I've added a Fortnite install but it's not showing up and instead shows a screen like this. How do I fix it?
 
 ![image](https://user-images.githubusercontent.com/34188635/142670341-082c9b8c-6fd0-4eb2-9c62-be5a86b9ec36.png)
 
@@ -60,7 +60,7 @@ Blaze Distribution CDN
 ![image](https://user-images.githubusercontent.com/34188635/142670834-30b24c69-4f65-4e17-8743-013606bd01ed.png)
 
 
-## Q: Blaze Shows Failed. 
+## Q: Blaze Shows "Failed." when trying to start it up. How to fix?
 
 ![image](https://user-images.githubusercontent.com/34188635/142671292-4ab3ce25-7b29-4c1b-b19c-e4051aed07f5.png)
 
