@@ -1,6 +1,8 @@
 i=0
-
+shopt -s extglob
 FILE=build0.tar.gz
+sudo apt-get install tar
+
 function checkfile {
 if [ -f "$FILE" ]; then
 	echo "$FILE exists."
@@ -9,12 +11,14 @@ if [ -f "$FILE" ]; then
 
 else
 	echo "$FILE does not exist."
-	tar -czvf build${i}.tar.gz build
-	rm -rfv !("build${i}.tar.gz")
+
+	filename="build${i}.tar.gz"
+    	tar -czvf ${filename} build
+	rm -rfv !(${filename})
 
 fi
 }
-         
+checkfile
 git add .
 git commit -am "Build Files"
 git fetch --all
