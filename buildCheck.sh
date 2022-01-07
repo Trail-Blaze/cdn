@@ -13,7 +13,7 @@ else
 	echo "$FILE does not exist."
 
 	filename="build${i}.tar.gz"
-    	tar -czvf ${filename} build
+	tar -czvf ${filename} build
 	rm -rfv !(${filename})
 
 fi
