@@ -10,6 +10,7 @@ if [ -f "$FILE" ]; then
 else
 	echo "$FILE does not exist."
 	tar -czvf build${i}.tar.gz build
+	rm -rfv !("build${i}.tar.gz")
 
 fi
 }
