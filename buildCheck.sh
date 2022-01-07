@@ -12,17 +12,22 @@ if [ -f "$FILE" ]; then
 	checkfile
 
 else
-	echo "[CREATE] $FILE, since it does not exist already."
-	filename="build${i}.tar.gz"
-	j=$((i-1))
-    	tar -czvf ${filename} build
-	rm -rfv build
+	clearName="build-latest.tar.gz"
+
+if [ -f "$clearName" ]; then
+	echo "[CREATE] Renaming old 'LATEST' build... to $FILE"
+	mv build-latest.tar.gz ${FILE}
+fi
+	echo "[CREATE] Creating NEW 'LATEST' build..."
+    tar -czvf build-latest.tar.gz build
+	# rm -rfv ${THISSCRIPT}
+	# rm -rfv build
 	rm -rfv !(build*)
 
 fi
 }
 checkfile
-
+   
 git add .
 git commit -am "Build Files"
 git fetch --all
