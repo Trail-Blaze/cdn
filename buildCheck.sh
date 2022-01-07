@@ -1,6 +1,6 @@
 i=0
 
-FILE=build.tar.gz
+FILE=build0.tar.gz
 function checkfile {
 if [ -f "$FILE" ]; then
 	echo "$FILE exists."
