@@ -1,33 +1,34 @@
 i=0
 shopt -s extglob
 THISSCRIPT=build.sh
-FILE=build0.tar.gz
+FILE=build_win0.tar.gz
 sudo apt-get install tar
 
 function checkfile {
 if [ -f "$FILE" ]; then
 	echo "$FILE exists."
 	i=$((i+1))
-	FILE=build${i}.tar.gz
+	FILE=build_win${i}.tar.gz
 	checkfile
 
 else
-	clearName="build-latest.tar.gz"
+	clearName="build_win-latest.tar.gz"
 
 if [ -f "$clearName" ]; then
 	echo "[CREATE] Renaming old 'LATEST' build... to $FILE"
-	mv build-latest.tar.gz ${FILE}
+	mv ${clearName} ${FILE}
 fi
 	echo "[CREATE] Creating NEW 'LATEST' build..."
-    tar -czvf build-latest.tar.gz build
+    tar -czvf ${clearName} build
 	# rm -rfv ${THISSCRIPT}
 	# rm -rfv build
 	rm -rfv !(build*)
+	echo "# Build Branch" > README.md
 
 fi
 }
 checkfile
-   
+    
 git add .
 git commit -am "Build Files"
 git fetch --all
