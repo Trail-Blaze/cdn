@@ -5,7 +5,7 @@ function checkfile {
 if [ -f "$FILE" ]; then
 	echo "$FILE exists."
 	i=$((i+1))
-    checkfile
+	checkfile
 
 else
 	echo "$FILE does not exist."
