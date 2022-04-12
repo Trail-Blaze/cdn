@@ -1,0 +1,72 @@
+[
+   {
+      "name": "Test Server 1",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
+      "host": "127.0.0.1",
+      "motd1": "Yeahhh mannn!!!",
+      "motd2": "LESSGOOO JOIN NOWWW"
+   },
+     {
+      "name": "Test Server 2",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
+      "host": "127.0.0.1",
+      "motd1": "Yeahhh mannn!!!",
+      "motd2": "LESSGOOO JOIN NOWWW"
+   },
+     {
+      "name": "Test Server 3",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
+      "host": "127.0.0.1",
+      "motd1": "Yeahhh mannn!!!",
+      "motd2": "LESSGOOO JOIN NOWWW"
+   },
+     {
+      "name": "Test Server 4",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
+      "host": "127.0.0.1",
+      "motd1": "Yeahhh mannn!!!",
+      "motd2": "LESSGOOO JOIN NOWWW"
+   },
+     {
+      "name": "Test Server 5",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
+      "host": "127.0.0.1",
+      "motd1": "Yeahhh mannn!!!",
+      "motd2": "LESSGOOO JOIN NOWWW"
+   },
+     {
+      "name": "Test Server 6",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
+      "host": "127.0.0.1",
+      "motd1": "Yeahhh mannn!!!",
+      "motd2": "LESSGOOO JOIN NOWWW"
+   },
+     {
+      "name": "Test Server 7",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
+      "host": "127.0.0.1",
+      "motd1": "Yeahhh mannn!!!",
+      "motd2": "LESSGOOO JOIN NOWWW"
+   },
+     {
+      "name": "Test Server 8",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
+      "host": "127.0.0.1",
+      "motd1": "Yeahhh mannn!!!",
+      "motd2": "LESSGOOO JOIN NOWWW"
+   },
+     {
+      "name": "Test Server 9",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
+      "host": "127.0.0.1",
+      "motd1": "Yeahhh mannn!!!",
+      "motd2": "LESSGOOO JOIN NOWWW"
+   },
+     {
+      "name": "Test Server 10",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
+      "host": "127.0.0.1",
+      "motd1": "Yeahhh mannn!!!",
+      "motd2": "LESSGOOO JOIN NOWWW"
+   }
+]
