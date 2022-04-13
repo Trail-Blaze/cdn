@@ -4,7 +4,7 @@ Blaze Distribution CDN
 
 # What Would You Like to Do?
 
-<a href="https://github.com/Trail-Blaze/cdn/raw/main/blazelauncher_0.0.1_rs_preview.exe">Download Blaze Installer</a><br/>
+<a href="https://raw.githubusercontent.com/Trail-Blaze/live-launcher-build/build/build_win-latest.tar.gz">Download Blaze Installer</a><br/>
 <a href="https://github.com/Trail-Blaze/cdn/raw/main/HelperScripts.exe">Download Helper Scripts Installer</a>
 
 ## Steps to Install 
@@ -14,7 +14,7 @@ Blaze Distribution CDN
 [![Watch the video](https://user-images.githubusercontent.com/34188635/142676162-c54911ff-bbb3-456c-befc-e3536ebf65ad.png)](https://user-images.githubusercontent.com/34188635/142672549-9ddd3f7f-c02c-4b8a-ba44-a6e8564df5ba.mp4)
 
 
-1. Download the main installer and do whatever it tells you to do. Make sure to read all instructions carefully. Although it is safe to say that clicking next until a finish button shows up will do no damage.
+1. Download the [main installer](https://raw.githubusercontent.com/Trail-Blaze/live-launcher-build/build/build_win-latest.tar.gz) and unzip it using [WinRAR](https://www.win-rar.com/postdownload.html?&L=0). Make sure to read all instructions carefully. Although it is safe to say that clicking next until a finish button shows up will do no damage.
 
 2. Next, run the helper scripts installer. Now this is where things get tricky. Just read the page and make sure your screen looks the same as the screenshot below then hit extract. 
 
