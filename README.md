@@ -66,6 +66,8 @@ Blaze Distribution CDN
 
 <br/>
 
+<!--- Bug already patched --->
+<!---
 ## Q: I've added a Fortnite install but it's not showing up and instead shows a screen like this. How do I fix it?
 
 ![image](https://user-images.githubusercontent.com/34188635/142670341-082c9b8c-6fd0-4eb2-9c62-be5a86b9ec36.png)
@@ -89,6 +91,7 @@ Blaze Distribution CDN
 ### Problem Fixed!
 ![image](https://user-images.githubusercontent.com/34188635/142670834-30b24c69-4f65-4e17-8743-013606bd01ed.png)
 
+--->
 <br/>
 
 ## Q: Blaze Shows "Failed." when trying to start it up. How to fix?
