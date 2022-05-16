@@ -47,9 +47,22 @@ Blaze Distribution CDN
 
 <br/>
 
+
+## Q: The `Browse` and `Finish` button does not work. Does life even have a purpose anymore?
+
+- A: Try this. Reload the screen using these steps and see if it helps.
+  1. Click on `View`
+  ![image](https://user-images.githubusercontent.com/34188635/168675444-fcef45c7-c1f0-435f-8072-3bf161feed74.png)
+  2. Now click on `Reload`
+  ![image](https://user-images.githubusercontent.com/34188635/168675868-56cc577e-3dc2-4b3f-9ce0-705403a9e267.png)
+  3. Check and see if it works now
+
+
+
+
 ## Q: The app keeps saying Blaze fails to start. Why does it do that?
 
-- A: You probably didn't follow the instructions properly or don't have NodeJS installed on your system. NodeJS is required in order for Blaze to work.
+- A: You probably didn't follow the instructions properly or don't have [NodeJS](https://nodejs.org) installed on your system. [NodeJS](https://nodejs.org) is required in order for Blaze to work.
 
 <br/>
 
