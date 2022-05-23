@@ -1,6 +1,6 @@
 i=0
 shopt -s extglob
-THISSCRIPT=buildCheck.sh
+THISSCRIPT=buildCheck_new.sh
 FILE=build_win0.tar.gz
 sudo apt-get install tar
 
