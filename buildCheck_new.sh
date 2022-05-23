@@ -19,12 +19,8 @@ if [ -f "$clearName" ]; then
 	mv ${clearName} ${FILE}
 fi
 	echo "[CREATE] Creating NEW 'LATEST' build..."
-    tar -czvf ${clearName} build
-	rm -rfv ${THISSCRIPT}
-	rm -rfv build
-	rm -rfv !(build*)
-	echo "# Build Branch" > README.md
-
+    	tar -czvf ${clearName} build
+	
 fi
 }
 checkfile
