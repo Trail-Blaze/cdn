@@ -1,17 +1,17 @@
 [
    {
       "name": "Neonite",
-      "icon": "https://avatars.githubusercontent.com/u/73992213?s=200&v=4",
+      "icon": "https://avatars.githubusercontent.com/u/73992213",
       "host": "127.0.0.1",
       "motd1": "Neonite is Fortnite's leading private server development and community",
       "motd2": "Not available currently."
    },
      {
-      "name": "Test Server 2",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
-      "host": "127.0.0.1",
-      "motd1": "Yeahhh mannn!!!",
-      "motd2": "LESSGOOO JOIN NOWWW"
+      "name": "Dynamite",
+      "icon": "https://avatars.githubusercontent.com/u/79590596",
+      "host": "http://dynamite.blaze.host/api/",
+      "motd1": "The original one-and-only private server and modding platform for Fortnite!",
+      "motd2": "You wont regret it...hahaha"
    },
      {
       "name": "Test Server 3",
