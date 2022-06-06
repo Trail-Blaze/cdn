@@ -17,15 +17,15 @@
       "name": "Aurora Rehost",
       "icon": "https://raw.githubusercontent.com/Trail-Blaze/cdn/main/fileTypes/png/65011793.png",
       "host": "https://aurorafn-backend--fninfo.repl.co/",
-      "motd1": "The definitive Fortnite private server...reloaded",
+      "motd1": "The definitive Fortnite private server — reloaded!",
       "motd2": "Note that <b>this is a code rehost</b>"
    },
      {
-      "name": "Test Server 4",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
-      "host": "127.0.0.1",
-      "motd1": "Yeahhh mannn!!!",
-      "motd2": "LESSGOOO JOIN NOWWW"
+      "name": "EZFN",
+      "icon": "https://raw.githubusercontent.com/Trail-Blaze/cdn/main/fileTypes/png/ezfn.png",
+      "host": "https://ps.ezfn.dev/",
+      "motd1": "Get a unique Fortnite experience using EZFN.",
+      "motd2": "Build your own bots, view unreleased items, get your challenges done faster and much more!"
    },
      {
       "name": "Test Server 5",
