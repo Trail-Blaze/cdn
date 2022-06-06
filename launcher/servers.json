@@ -14,11 +14,11 @@
       "motd2": "Your all-in-one private server"
    },
      {
-      "name": "Test Server 3",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
-      "host": "127.0.0.1",
-      "motd1": "Yeahhh mannn!!!",
-      "motd2": "LESSGOOO JOIN NOWWW"
+      "name": "Aurora Rehost",
+      "icon": "https://raw.githubusercontent.com/Trail-Blaze/cdn/main/fileTypes/png/65011793.png",
+      "host": "https://aurorafn-backend--fninfo.repl.co/",
+      "motd1": "The definitive Fortnite private server...reloaded",
+      "motd2": "Note that <b>this is a code rehost</b>"
    },
      {
       "name": "Test Server 4",
