@@ -24,15 +24,15 @@
       "name": "EZFN",
       "icon": "https://raw.githubusercontent.com/Trail-Blaze/cdn/main/fileTypes/png/ezfn.png",
       "host": "https://v2.ezfn.dev/",
-      "motd1": "Get a unique Fortnite experience using EZFN.",
+      "motd1": "Get a unique Fortnite experience using EZFN!",
       "motd2": "Build your own bots, view unreleased items, get your challenges done faster and much more!"
    },
      {
-      "name": "Test Server 5",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
-      "host": "127.0.0.1",
-      "motd1": "Yeahhh mannn!!!",
-      "motd2": "LESSGOOO JOIN NOWWW"
+      "name": "LawinServer",
+      "icon": "https://raw.githubusercontent.com/Trail-Blaze/cdn/main/fileTypes/png/lawin.png",
+      "host": "https://lawin.cloudno.de",
+      "motd1": "LawinServer is a private server that supports all Fortnite versions!",
+      "motd2": "Supports <b>BOTH</b> Battle Royale and Save-The-World (STW)!"
    },
      {
       "name": "Test Server 6",
