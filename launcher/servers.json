@@ -22,6 +22,7 @@
    },
      {
       "name": "EZFN",
+      "requiresAccount": true,
       "icon": "https://raw.githubusercontent.com/Trail-Blaze/cdn/main/fileTypes/png/ezfn.png",
       "host": "https://v2.ezfn.dev/",
       "motd1": "Get a unique Fortnite experience using EZFN!",
