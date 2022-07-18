@@ -432,11 +432,11 @@ function unTruncate(id) {
             <p
               class="text-gray-500 dark:text-gray-400 text-base sm:text-lg lg:text-base xl:text-lg font-medium"
             >
-              <b
-                class="block skeleton motd truncate"
-                onclick="unTruncate(this.id)"
+              <marquee direction="right"
+                behavior="alternate" 
+                class="block skeleton motd"
                 id="templateDescription"
-                >TEMPLATE_DESCRIPTION</b
+                >TEMPLATE_DESCRIPTION</marquee
               >
             </p>
             <button
