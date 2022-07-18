@@ -39,7 +39,7 @@
       "name": "Synergy",
       "icon": "https://raw.githubusercontent.com/Trail-Blaze/cdn/main/fileTypes/png/synergy.png",
       "host": "http://synergy.ezfn.dev",
-      "motd1": "Welcome to Synergy! The First Private Server to be",
+      "motd1": "<b style='font-size: 20px'>Welcome to <i style='color: #eb34e1>Synergy</i>!</b> The <b>First Private Server</b> to be",
       "motd2": "completely based on Multiplayer for old Fortnite with 24/7 Servers"
    },
      {
