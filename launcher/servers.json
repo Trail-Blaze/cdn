@@ -36,11 +36,11 @@
       "motd2": "Supports <b>BOTH</b> Battle Royale and Save-The-World (STW)!"
    },
      {
-      "name": "Test Server 6",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Color_icon_Cornflower_blue.svg/768px-Color_icon_Cornflower_blue.svg.png",
-      "host": "127.0.0.1",
-      "motd1": "Yeahhh mannn!!!",
-      "motd2": "LESSGOOO JOIN NOWWW"
+      "name": "Synergy",
+      "icon": "https://raw.githubusercontent.com/Trail-Blaze/cdn/main/fileTypes/png/synergy.png",
+      "host": "http://synergy.ezfn.dev",
+      "motd1": "Welcome to Synergy! The First Private Server to be",
+      "motd2": "completely based on Multiplayer for old Fortnite with 24/7 Servers"
    },
      {
       "name": "Test Server 7",
