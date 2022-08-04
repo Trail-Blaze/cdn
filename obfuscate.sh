@@ -3,6 +3,7 @@ cd $(pwd)/tools
 npm install
 cd ..
 export PATH=$PATH:$(pwd)/tools
+sudo chmod -R +x $(pwd)/tools
 cd build/win/launcher-win32-ia32/resources
 unpack app.asar
 rm -rf .temp/launch_unpacked.bat
